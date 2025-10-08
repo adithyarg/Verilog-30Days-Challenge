@@ -75,8 +75,7 @@ initial begin
     
     $display("SUM = %b, COUT = %b", sum, cout);
     $finish;
-end
-      
+end     
 endmodule
 ```
 
