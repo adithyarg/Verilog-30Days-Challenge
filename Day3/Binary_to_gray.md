@@ -1,4 +1,4 @@
-# Binary to Gray code conversion:
+# Binary to Gray code conversion
 ```verilog
 `timescale 1ns / 1ps
 
